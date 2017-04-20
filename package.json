@@ -1,0 +1,17 @@
+{
+  "name": "ng-heroes",
+  "version": "1.0.0",
+  "description": "Implementation of the Angular official tutorial app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Angular",
+    "TypeScript",
+    "angular-material",
+    "webpack"
+  ],
+  "author": "Amir Massarwi <amassarwi@gmail.com>",
+  "license": "MIT"
+}
