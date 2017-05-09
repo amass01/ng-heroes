@@ -2,7 +2,7 @@ const webpack = require("webpack");
 module.exports = {
   entry: {
     "vendor": "./src/vendor.index",
-    "app": "./src/main"
+    "app": "./src/index"
   },
   output: {
     path: __dirname,
