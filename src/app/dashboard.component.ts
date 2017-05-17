@@ -4,7 +4,7 @@ import {Hero} from "./hero";
 
 @Component({
     selector: 'my-dashboard',
-    templateUrl: './dashboard.component.html',
+    template: require('./dashboard.component.html'),
 })
 
 export class DashboardComponent implements OnInit {
