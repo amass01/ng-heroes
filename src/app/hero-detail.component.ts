@@ -9,6 +9,7 @@ import { Hero } from './hero';
 @Component({
     selector: 'hero-detail',
     template: require('./hero-detail.component.html'),
+    styles: [require('./hero-detail.component.css')]
 })
 export class HeroDetailComponent implements OnInit {
 
